@@ -19,10 +19,9 @@ Cite from the repo:
 ```
 
 ## Survey
-- <font color="red">Backdoor Learning: A Survey.</font>
+-  ![#f03c15](https://imgstack.try2explore.com/i/aHR0cHM6Ly9wbGFjZWhvbGQuaXQvMTUvZjAzYzE1LzAwMDAwMD90ZXh0PSs=.jpg)Backdoor Learning: A Survey.
   [[pdf]](https://www.researchgate.net/publication/343006441_Backdoor_Learning_A_Survey)
   - Yiming Li, Baoyuan Wu, Yong Jiang, Zhifeng Li, and Shu-Tao Xia. arXiv, 2020.
-- ![#f03c15](https://imgstack.try2explore.com/i/aHR0cHM6Ly9wbGFjZWhvbGQuaXQvMTUvZjAzYzE1LzAwMDAwMD90ZXh0PSs=.jpg)
 
 ## Image and Video Classification
 ### Poisoning-based Attack
