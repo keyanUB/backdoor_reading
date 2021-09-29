@@ -49,7 +49,7 @@ Cite from the repo:
   [[code]](https://github.com/Megum1/DFST)
   - Siyuan Cheng, Yingqi Liu, Shiqing Ma, and Xiangyu Zhang. *AAAI*, 2021.
 
-- WaNet - Imperceptible Warping-based Backdoor Attack.
+- ![#f03c15](https://imgstack.try2explore.com/i/aHR0cHM6Ly9wbGFjZWhvbGQuaXQvMTUvZjAzYzE1LzAwMDAwMD90ZXh0PSs=.jpg) WaNet - Imperceptible Warping-based Backdoor Attack.
   [[pdf]](https://openreview.net/pdf?id=eEn8KTtJOx)
   [[code]](https://github.com/VinAIResearch/Warping-based_Backdoor_Attack-release)
   - Tuan Anh Nguyen, and Anh Tuan Tran. *ICLR*, 2021.
@@ -121,7 +121,7 @@ Cite from the repo:
   [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3372297.3423362)
   - Junyu Lin, Lei Xu, Yingqi Liu, Xiangyu Zhang. *CCS*, 2020.
 
-- Input-Aware Dynamic Backdoor Attack. 
+- ![#f03c15](https://imgstack.try2explore.com/i/aHR0cHM6Ly9wbGFjZWhvbGQuaXQvMTUvZjAzYzE1LzAwMDAwMD90ZXh0PSs=.jpg) Input-Aware Dynamic Backdoor Attack. 
   [[pdf]](https://arxiv.org/pdf/2010.08138.pdf)
   [[code]](https://github.com/VinAIResearch/input-aware-backdoor-attack-release)
   - Anh Nguyen, and Anh Tran. *NeurIPS 2020*.
@@ -183,7 +183,7 @@ Cite from the repo:
   - Ahmed Salem, Rui Wen, Michael Backes, Shiqing Ma, and Yang Zhang. arXiv, 2020.  
 
 #### 2019
-- Latent Backdoor Attacks on Deep Neural Networks.
+- ![#f03c15](https://imgstack.try2explore.com/i/aHR0cHM6Ly9wbGFjZWhvbGQuaXQvMTUvZjAzYzE1LzAwMDAwMD90ZXh0PSs=.jpg) Latent Backdoor Attacks on Deep Neural Networks.
   [[pdf]](http://people.cs.uchicago.edu/~huiyingli/publication/fr292-yaoA.pdf)
   - Yuanshun Yao, Huiying Li, Haitao Zheng and Ben Y. Zhao. *CCS*, 2019.
 
@@ -203,12 +203,12 @@ Cite from the repo:
   - Yingqi Liu, Shiqing Ma, Yousra Aafer, Wen-Chuan Lee, and Juan Zhai. *NDSS*, 2018.
  
 #### 2017
-- BadNets: Identifying Vulnerabilities in the Machine Learning Model Supply Chain.
+- ![#f03c15](https://imgstack.try2explore.com/i/aHR0cHM6Ly9wbGFjZWhvbGQuaXQvMTUvZjAzYzE1LzAwMDAwMD90ZXh0PSs=.jpg) BadNets: Identifying Vulnerabilities in the Machine Learning Model Supply Chain.
   [[pdf]](https://arxiv.org/pdf/1708.06733.pdf)
   [[journal]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8685687)
   - Tianyu Gu, Brendan Dolan-Gavitt, and Siddharth Garg. arXiv, 2017 (*IEEE Access*, 2019).
 
-- Targeted Backdoor Attacks on Deep Learning Systems Using Data Poisoning.
+- ![#f03c15](https://imgstack.try2explore.com/i/aHR0cHM6Ly9wbGFjZWhvbGQuaXQvMTUvZjAzYzE1LzAwMDAwMD90ZXh0PSs=.jpg) Targeted Backdoor Attacks on Deep Learning Systems Using Data Poisoning.
   [[pdf]](https://arxiv.org/pdf/1712.05526.pdf)
   [[code]](https://github.com/GeorgePisl/backdoor-attacks-based-on-deep-learning)
   - Xinyun Chen, Chang Liu, Bo Li, Kimberly Lu, and Dawn Song. arXiv, 2017.  
@@ -361,7 +361,7 @@ Cite from the repo:
   [[pdf]](https://www.lions.odu.edu/~h1wu/paper/gangsweep.pdf)
   - Liuwan Zhu, Rui Ning, Cong Wang, Chunsheng Xin, and Hongyi Wu. *ACM MM*, 2020.
 
-- Neural Cleanse: Identifying and Mitigating Backdoor Attacks in Neural Networks.
+- ![#f03c15](https://imgstack.try2explore.com/i/aHR0cHM6Ly9wbGFjZWhvbGQuaXQvMTUvZjAzYzE1LzAwMDAwMD90ZXh0PSs=.jpg) Neural Cleanse: Identifying and Mitigating Backdoor Attacks in Neural Networks.
   [[pdf]](https://gangw.web.illinois.edu/class/cs598/papers/sp19-poisoning-backdoor.pdf)
   [[code]](https://github.com/bolunwang/backdoor)
   - Bolun Wang, Yuanshun Yao, Shawn Shan, Huiying Li, Bimal Viswanath, Haitao Zheng, Ben Y. Zhao. *IEEE S&P*, 2019.
@@ -401,7 +401,7 @@ Cite from the repo:
   - Akshaj Kumar Veldanda, Kang Liu, Benjamin Tan, Prashanth Krishnamurthy, Farshad Khorrami, Ramesh Karri, Brendan Dolan-Gavitt, and Siddharth Garg. arXiv, 2020.
 
 #### Model Diagnosis based Empirical Defense  
-- Detecting AI Trojans Using Meta Neural Analysis.
+- ![#f03c15](https://imgstack.try2explore.com/i/aHR0cHM6Ly9wbGFjZWhvbGQuaXQvMTUvZjAzYzE1LzAwMDAwMD90ZXh0PSs=.jpg) Detecting AI Trojans Using Meta Neural Analysis.
   [[pdf]](https://arxiv.org/pdf/1910.03137.pdf)
   - Xiaojun Xu, Qi Wang, Huichen Li, Nikita Borisov, Carl A. Gunter, and Bo Li. *IEEE S&P*, 2021.
 
@@ -801,8 +801,8 @@ Cite from the repo:
   [[code]](https://github.com/lancopku/SOS)
   - Wenkai Yang, Yankai Lin, Peng Li, Jie Zhou, and Xu Sun. *ACL*, 2021.
 
-- Turn the Combination Lock: Learnable Textual Backdoor Attacks via Word Substitution.
-  [[pdf]](https://arxiv.org/pdf/2106.06361.pdf)
+- ![#f03c15](https://imgstack.try2explore.com/i/aHR0cHM6Ly9wbGFjZWhvbGQuaXQvMTUvZjAzYzE1LzAwMDAwMD90ZXh0PSs=.jpg) Turn the Combination Lock: Learnable Textual Backdoor Attacks via Word Substitution.
+  [[pdf]](https://arxiv.org/pdf/2106.06361.pdf) -- **See Gubel Softmax**
   - Fanchao Qi, Yuan Yao, Sophia Xu, Zhiyuan Liu, and Maosong Sun. *ACL*, 2021.
 
 - Hidden Killer: Invisible Textual Backdoor Attacks with Syntactic Trigger.
@@ -829,7 +829,7 @@ Cite from the repo:
   [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8836465)
   - Jiazhu Dai, Chuanshuai Chen, and Yufeng Li. *IEEE Access*, 2019.
 
-- Poison Attacks against Text Datasets with Conditional Adversarially Regularized Autoencoder.
+- ![#f03c15](https://imgstack.try2explore.com/i/aHR0cHM6Ly9wbGFjZWhvbGQuaXQvMTUvZjAzYzE1LzAwMDAwMD90ZXh0PSs=.jpg) Poison Attacks against Text Datasets with Conditional Adversarially Regularized Autoencoder.
   [[pdf]](https://arxiv.org/pdf/2010.02684.pdf)
   - Alvin Chan, Yi Tay, Yew-Soon Ong, and Aston Zhang. *EMNLP-Findings*, 2020.
 
@@ -842,7 +842,7 @@ Cite from the repo:
   [[code]](https://github.com/ShannonAI/backdoor_nlg)
   - Chun Fan, Xiaoya Li, Yuxian Meng, Xiaofei Sun, Xiang Ao, Fei Wu, Jiwei Li, and Tianwei Zhang. arXiv, 2021.
 
-- Hidden Backdoors in Human-Centric Language Models.
+- ![#f03c15](https://imgstack.try2explore.com/i/aHR0cHM6Ly9wbGFjZWhvbGQuaXQvMTUvZjAzYzE1LzAwMDAwMD90ZXh0PSs=.jpg) Hidden Backdoors in Human-Centric Language Models.
   [[pdf]](https://arxiv.org/pdf/2105.00164.pdf)
   - Shaofeng Li, Hui Liu, Tian Dong, Benjamin Zi Hao Zhao, Minhui Xue, Haojin Zhu, and Jialiang Lu. arXiv, 2021.
 
