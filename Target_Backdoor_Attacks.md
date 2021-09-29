@@ -7,7 +7,7 @@
     * attacker has no knowledge of the victim model or its training data
     * attacker can inject only a small number of poisoning samples into training data
 - 2 poisoning strategies:</br>
-    1> attacker injects few poisoning sample</br>s
+    1> attacker injects few poisoning sample</br>
     2> attacker create a wide range of backdoor instances
     
 ### Thread Model
