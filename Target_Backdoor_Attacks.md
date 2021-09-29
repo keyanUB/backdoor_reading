@@ -1,6 +1,6 @@
-### Target Backdoor Attacks on Deep Learning System using Data Poisoning
+## Target Backdoor Attacks on Deep Learning System using Data Poisoning [pdf](https://arxiv.org/pdf/1712.05526.pdf)
 
-## Introduction
+### Introduction
 - Attacker: Create a backdoor into a learning-based authentication system
 - Backdoor Poisoning Attack -target attack
 - Weak and realistic model:
@@ -10,7 +10,7 @@
     1> attacker injects few poisoning sample
     2> attacker create a wide range of backdoor instances
     
-## Thread Model
+### Thread Model
 - Black-box poisoning
 - Unawareness of training data
-- Tageted attacks: \\ any back door instances will be classified as a target lable; the overall performance of learning system will not be affected.
+- Tageted attacks: </br> any back door instances will be classified as a target lable; the overall performance of learning system will not be affected.
