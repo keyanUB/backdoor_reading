@@ -1,18 +1,14 @@
 # Keyan's Backdoor Learning Materials
 cite from the reading list from THU
 
-# Backdoor Learning Resources
-This Github repository summarizes a curated list of **Backdoor Learning** resources. For more details and the categorization criteria, please refer to our [survey](https://www.researchgate.net/publication/343006441_Backdoor_Learning_A_Survey).
-
-
-#### Why Backdoor Learning?
+## Why Backdoor Learning?
 Backdoor learning is an emerging research area, which discusses the security issues of the training process towards machine learning algorithms. It is critical for safely adopting third-party algorithms in reality.  Although backdoor learning shares certain similarity with adversarial learning (which concentrates on the security issues of the inference process), they do have essential differences and can be easily distinguished.
 
 Note: 'Backdoor' is also commonly called the 'Neural Trojan' or 'Trojan'.
 
 
-## Citation
-If our repo or survey is useful for your research, please cite our paper as follows:
+## Citation:
+Cite from the repo:
 ```
 @article{li2020backdoor,
   title={Backdoor learning: A survey},
@@ -21,15 +17,6 @@ If our repo or survey is useful for your research, please cite our paper as foll
   year={2020}
 }
 ```
-
-
-## Contributing
-<p align="center">
-  <img src="http://cdn1.sportngin.com/attachments/news_article/7269/5172/needyou_small.jpg" alt="We Need You!">
-</p>
-
-Please help to contribute this list by contacting [me](http://liyiming.tech) or add [pull request](https://github.com/THUYimingLi/awesome-backdoor-learning/pulls)
-
 Markdown format:
 ```markdown
 - Paper Name. 
@@ -38,87 +25,18 @@ Markdown format:
   - Author 1, Author 2, and Author 3. *Conference/Journal*, Year.
 ```
 
-
-## Table of Contents
-- [Survey](#survey)
-- [Dissertation and Thesis](#dissertation-and-thesis)
-- [Image and Video Classification](#image-and-video-classification) 
-  - [Poisoning-based Attack](#poisoning-based-attack)
-  - [Non-poisoning-based Attack](#non-poisoning-based-attack)
-  - [Backdoor Defense](#backdoor-defense)
-    - [Preprocessing based Empirical Defense](#preprocessing-based-empirical-defense)
-    - [Model Reconstruction based Empirical Defense](#model-reconstruction-based-empirical-defense)
-    - [Trigger Synthesis based Empirical Defense](#trigger-synthesis-based-empirical-defense)
-    - [Model Diagnosis based Empirical Defense](#model-diagnosis-based-empirical-defense)
-    - [Poison Suppression based Empirical Defense](#poison-suppression-based-empirical-defense)
-    - [Sample Filtering based Empirical Defense](#sample-filtering-based-empirical-defense)
-    - [Certificated Defense](#certificated-defense)
-- [Attack and Defense Towards Other Paradigms and Tasks](#attack-and-defense-towards-other-paradigms-and-tasks) 
-  - [Collaborative Learning](#collaborative-learning)
-  - [Transfer Learning](#transfer-learning) 
-  - [Reinforcement Learning](#reinforcement-learning)
-  - [Self-Supervised Learning](#self-supervised-learning)
-  - [Natural Language Processing](#natural-language-processing)
-  - [Graph Neural Networks](#graph-neural-networks)
-  - [Point Cloud](#point-cloud)
-  - [Acoustics Signal Processing](#acoustics-signal-processing)
-  - [Medical Science](#medical-science)
-  - [Others](#others)
-- [Discussion and Evaluation](#discussion-and-evaluation)
-- [Backdoor Attack for Positive Purposes](#backdoor-attack-for-positive-purposes)
-- [Toolbox](#toolbox)
-- [Competition](#competition)
-
-
 ## Survey
 - Backdoor Learning: A Survey.
   [[pdf]](https://www.researchgate.net/publication/343006441_Backdoor_Learning_A_Survey)
   - Yiming Li, Baoyuan Wu, Yong Jiang, Zhifeng Li, and Shu-Tao Xia. arXiv, 2020.
 
-- Data Security for Machine Learning: Data Poisoning, Backdoor Attacks, and Defenses.
-  [[pdf]](https://arxiv.org/pdf/2012.10544.pdf)
-  - Micah Goldblum, Dimitris Tsipras, Chulin Xie, Xinyun Chen, Avi Schwarzschild, Dawn Song, Aleksander Madry, Bo Li, and Tom Goldstein. arXiv, 2020.
-
-- Backdoor Attacks and Countermeasures on Deep Learning: A Comprehensive Review.
-  [[pdf]](https://arxiv.org/pdf/2007.10760.pdf)
-  - Yansong Gao, Bao Gia Doan, Zhi Zhang, Siqi Ma, Anmin Fu, Surya Nepal, and Hyoungshick Kim. arXiv, 2020.
-
-- Deep Learning Backdoors.
-  [[pdf]](https://arxiv.org/pdf/2007.08273.pdf)
-  - Shaofeng Li, Shiqing Ma, Minhui Xue, and Benjamin Zi Hao Zhao. arXiv, 2020.
-
-- A Survey on Neural Trojans. 
-  [[pdf]](https://eprint.iacr.org/2020/201.pdf)
-  - Yuntao Liu, Ankit Mondal, Abhishek Chakraborty, Michael Zuzak, Nina Jacobsen, Daniel Xing, and Ankur Srivastava. *ISQED*, 2020.
-
-
-## Dissertation and Thesis
-- Toward Robust and Communication Efficient Distributed Machine Learning.
-  [[pdf]](https://www.proquest.com/docview/2572595657)
-  - Hongyi Wang. *Ph.D. Dissertation at University of Wisconsin–Madison*, 2021.
-
-- Towards Robust Image Classification with Deep Learning and Real-Time DNN Inference on Mobile.
-  [[pdf]](https://www.proquest.com/docview/2572970976)
-  - Pu Zhao. *Ph.D. Dissertation at Northeastern University*, 2021.
-
-- Countermeasures Against Backdoor, Data Poisoning, and Adversarial Attacks.
-  [[pdf]](https://www.proquest.com/docview/2572565404)
-  - Henry Daniel. *Ph.D. Dissertation at University of Texas at San Antonio*, 2021.
-
-- Geometric Properties of Backdoored Neural Networks.
-  [[pdf]](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2021/EECS-2021-78.pdf)
-  - Dominic Carrano. *Master Thesis at University of California at Berkeley*, 2021.
-
-- Detecting Backdoored Neural Networks with Structured Adversarial Attacks.
-  [[pdf]](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2021/EECS-2021-90.pdf)
-  - Charles Yang. *Master Thesis at University of California at Berkeley*, 2021.
-
-- Backdoor Attacks Against Deep Learning Systems in the Physical World.
-  [[pdf]](https://newtraell.cs.uchicago.edu/files/ms_paper/ewillson.pdf)
-  - Emily Wenger. *Master Thesis at University of Chicago*, 2020.
-
-
-
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 ## Image and Video Classification
 ### Poisoning-based Attack
 #### 2021 
