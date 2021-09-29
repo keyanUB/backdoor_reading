@@ -36,6 +36,7 @@ Markdown format:
 ! text in orange
 # text in gray
 @@ text in purple (and bold)@@
+```
 
 ## Image and Video Classification
 ### Poisoning-based Attack
@@ -1109,4 +1110,4 @@ Markdown format:
 
 ## Competition
 - [IARPA TrojAI Competition](https://pages.nist.gov/trojai/docs/about.html)
-```
+
