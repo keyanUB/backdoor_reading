@@ -40,12 +40,11 @@ Cite from the repo:
   [[pdf]](https://arxiv.org/pdf/2005.03823.pdf)
   - Eugene Bagdasaryan, and Vitaly Shmatikov. *USENIX Security*, 2021.
 
-````diff
 - Backdoor Attacks Against Deep Learning Systems in the Physical World.
   [[pdf]](https://arxiv.org/pdf/2006.14580.pdf)
   [[Master Thesis]](https://newtraell.cs.uchicago.edu/files/ms_paper/ewillson.pdf)
   - Emily Wenger, Josephine Passanati, Yuanshun Yao, Haitao Zheng, and Ben Y. Zhao. *CVPR*, 2021.
-````
+
 - Deep Feature Space Trojan Attack of Neural Networks by Controlled Detoxification.
   [[pdf]](https://arxiv.org/pdf/2012.11212.pdf)
   [[code]](https://github.com/Megum1/DFST)
