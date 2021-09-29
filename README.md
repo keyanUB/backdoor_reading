@@ -17,26 +17,12 @@ Cite from the repo:
   year={2020}
 }
 ```
-Markdown format:
-```markdown
-- Paper Name. 
-  [[pdf]](link) 
-  [[code]](link)
-  - Author 1, Author 2, and Author 3. *Conference/Journal*, Year.
-```
 
 ## Survey
 - Backdoor Learning: A Survey.
   [[pdf]](https://www.researchgate.net/publication/343006441_Backdoor_Learning_A_Survey)
   - Yiming Li, Baoyuan Wu, Yong Jiang, Zhifeng Li, and Shu-Tao Xia. arXiv, 2020.
 
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
 
 ## Image and Video Classification
 ### Poisoning-based Attack
@@ -54,11 +40,12 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2005.03823.pdf)
   - Eugene Bagdasaryan, and Vitaly Shmatikov. *USENIX Security*, 2021.
 
+````diff
 - Backdoor Attacks Against Deep Learning Systems in the Physical World.
   [[pdf]](https://arxiv.org/pdf/2006.14580.pdf)
   [[Master Thesis]](https://newtraell.cs.uchicago.edu/files/ms_paper/ewillson.pdf)
   - Emily Wenger, Josephine Passanati, Yuanshun Yao, Haitao Zheng, and Ben Y. Zhao. *CVPR*, 2021.
-
+````
 - Deep Feature Space Trojan Attack of Neural Networks by Controlled Detoxification.
   [[pdf]](https://arxiv.org/pdf/2012.11212.pdf)
   [[code]](https://github.com/Megum1/DFST)
@@ -1111,3 +1098,18 @@ Markdown format:
 ## Competition
 - [IARPA TrojAI Competition](https://pages.nist.gov/trojai/docs/about.html)
 
+Markdown format:
+```markdown
+- Paper Name. 
+  [[pdf]](link) 
+  [[code]](link)
+  - Author 1, Author 2, and Author 3. *Conference/Journal*, Year.
+```
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
