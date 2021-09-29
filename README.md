@@ -19,9 +19,9 @@ Cite from the repo:
 ```
 
 ## Survey
-- ![#f03c15]Backdoor Learning: A Survey.
+- ![#f03c15]Backdoor Learning: A Survey.`#f03c15`
   [[pdf]](https://www.researchgate.net/publication/343006441_Backdoor_Learning_A_Survey)
-  - Yiming Li, Baoyuan Wu, Yong Jiang, Zhifeng Li, and Shu-Tao Xia. arXiv, 2020.`#f03c15`
+  - Yiming Li, Baoyuan Wu, Yong Jiang, Zhifeng Li, and Shu-Tao Xia. arXiv, 2020.
 
 
 ## Image and Video Classification
