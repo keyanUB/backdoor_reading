@@ -26,6 +26,22 @@ Cite from the repo:
 ## Image and Video Classification
 ### Poisoning-based Attack
 #### 2021 
+- Backdoor Pre-trained Models Can Transfer to All *CCS*
+
+- Hidden Backdoors in Human-Centric Language Models.
+  [[pdf]](https://arxiv.org/pdf/2105.00164.pdf)
+  - Shaofeng Li∗, Hui Liu∗, Tian Dong∗, Benjamin Zi Hao Zhao†,Minhui Xue‡, Haojin Zhu∗, Jialiang Lu∗. *CCS*, 2021
+
+- Cert-RNN: Towards Certifying the Robustness of Recurrent Neural Networks.
+  [[pdf]](https://nesa.zju.edu.cn/download/dty_pdf_cert_rnn.pdf)
+  - Tianyu Du, Shouling Ji, Lujia Shen, Yao Zhang, Jinfeng Li, Jie Shi, Chengfang Fang, Jianwei Yin, Raheem Beyah, 
+Ting Wang. *CCS*, 2021.
+  
+-  Subpopulation Data Poisoning Attacks.
+   [[pdf]](https://arxiv.org/pdf/2006.14026.pdf)
+   Matthew Jagielski, Giorgio Severi, Niklas Pousette, Harger Alina Oprea. *CCS*, 2021
+
+
 - Invisible Backdoor Attack with Sample-Specific Triggers.
   [[pdf]](https://arxiv.org/pdf/2012.03816.pdf)
   [[code]](https://github.com/yuezunli/ISSBA)
