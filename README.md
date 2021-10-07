@@ -26,7 +26,7 @@ Cite from the repo:
 ## Image and Video Classification
 ### Poisoning-based Attack
 #### 2021 
-- Backdoor Pre-trained Models Can Transfer to All *CCS*
+- ![#f03c15](https://imgstack.try2explore.com/i/aHR0cHM6Ly9wbGFjZWhvbGQuaXQvMTUvZjAzYzE1LzAwMDAwMD90ZXh0PSs=.jpg) Backdoor Pre-trained Models Can Transfer to All *CCS*
 
 - Hidden Backdoors in Human-Centric Language Models.
   [[pdf]](https://arxiv.org/pdf/2105.00164.pdf)
