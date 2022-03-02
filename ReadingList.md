@@ -34,13 +34,13 @@ Cite from the repo:
 #### 2021 
 ```diff
 - Backdoor Pre-trained Models Can Transfer to All.
+```
   [[pdf]](https://arxiv.org/pdf/2111.00197.pdf)
   Lujia Shen, Shouling Ji, Xuhong Zhang, Jinfeng Li, Jing Chen, Jie Shi, Chengfang Fang. *CCS*, 2021
 
 - Hidden Backdoors in Human-Centric Language Models.
   [[pdf]](https://arxiv.org/pdf/2105.00164.pdf)
   - Shaofeng Li∗, Hui Liu∗, Tian Dong∗, Benjamin Zi Hao Zhao†,Minhui Xue‡, Haojin Zhu∗, Jialiang Lu∗. *CCS*, 2021
-```
 
 - Cert-RNN: Towards Certifying the Robustness of Recurrent Neural Networks.
   [[pdf]](https://nesa.zju.edu.cn/download/dty_pdf_cert_rnn.pdf)
